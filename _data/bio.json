@@ -6,7 +6,7 @@
     "email": "Plemus@hawaii.edu",
     "phone": "808-497-7936",
     "website": "https://paulolemus.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "summary": "I am studying for a B.S. in Computer Engineering at the University of Hawaii. I expect to graduate in December, 2018.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -27,26 +27,29 @@
       },
       {
         "network": "instagram",
-        "username": "molly",
+        "username": "pauloasdf_5",
         "url": "http://instagram.com/pauloasdf_5"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "software engineering",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "android development",
       "keywords": [
       ]
     },
     {
       "name": "artificial intelligence",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "robotics",
       "keywords": [
       ]
     }
