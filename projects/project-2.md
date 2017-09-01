@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Kanaloa-Logo.png
+image: images/robotx-wamv.jpg
 title: Maritime RobotX Challenge
 permalink: projects/robotx
 date: 2016
