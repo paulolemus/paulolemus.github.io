@@ -12,7 +12,7 @@ labels:
   - MATLAB
   - GitHub
   - Git
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: An unmanned water surface vessel built and programmed to autonomously complete several naval tasks.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/robotx-wamv.jpg">
