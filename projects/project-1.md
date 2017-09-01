@@ -12,6 +12,7 @@ labels:
 summary: My team developed Unicorn IX, a robotic mouse that made it to the center of a 16x16 maze.
 ---
 
+<img class="ui medium right floated rounded image" src="/images/micromouse-photo.jpg">
 
 Micromouse was a x96 project hosted by Dr. Tep Dobry, as well as an IEEE regional competition. Multiple teams developed miniature robots resembling mice that could completely autonomously search, solve, and complete an unknown 16x16 maze. The mouse with the fastest time to the center of the maze won first place, and slower mice ranked accordingly. Those mice that were unable to complete the maze were ranked based on how many unique blocks they were able to traverse.
 
