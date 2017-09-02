@@ -40,7 +40,7 @@ false
 
 Before I began to learn about JavaScript, I had some exposure to Python and Scheme. Python was not too bad getting used to coming from an OOP background. The strangest things to me were dynamic typing and heterogeneous arrays. Scheme however forced me to learn about and *understand* foreign concepts such as functions as first-class citizens, closures, and first-class continuations.
 
-Being aware of concepts from Python and Scheme prior to learning about JavaScript has made the act so much more interesting. So far my impression of JavaScript is entirely positive. It seems like a very powerful language due to its history and market prevalence. I think that the language has a lot packed in to it, and there is a lot of synergy in learning about JavaScript along with Scheme and Python.
+Being aware of concepts from Python and Scheme prior to learning about JavaScript has made the act so much more interesting. So far my impression of JavaScript is entirely positive. It seems like a very powerful language due to its history and market prevalence. I think that the language has a lot packed in to it, and there is a lot of synergy in learning about JavaScript along with Scheme and Python. One thing in particular that I love about JavaScript is the love and care of open source libraries/frameworks/tools. Despite never diving in to any online JavaScript communities, I am always hearing names of these new libraries that become very popular out of the blue. I am looking forward to using this fast paced development environment to begin contributing to open source software.
 
 ## About athletic software engineering
 
