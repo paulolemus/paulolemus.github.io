@@ -7,6 +7,8 @@ labels:
   - JavaScript
 ---
 
+<img class="ui medium right floated rounded image" src="../images/jslogo.png">
+
 My first impression of JavaScript was not a good one. Redditors (outside of /r/javascript) can sometimes paint JavaScript in a bad light, noting how the language is full of dangerous pitfalls and how if you aren't an expert, your projects will quickly and surely descend in to madness. Some particular snippets of JavaScript code that can confound anyone who doesn't use it (i.e., me at the time) are the following:
 
 ```javascript
