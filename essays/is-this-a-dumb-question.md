@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Is this a dumb question?
+title: Is This a Dumb Question?
 date: 2017-09-07
 labels:
   - StackOverflow
