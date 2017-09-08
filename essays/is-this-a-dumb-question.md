@@ -9,7 +9,7 @@ labels:
   - Dumb Questions
 ---
 
-<img class="ui medium right floated rounded image" src="../images/jslogo.png">
+<img class="ui medium right floated rounded image" src="https://kidfromthe6ix.files.wordpress.com/2014/11/screen-shot-2014-11-24-at-1-59-38-am.png?w=481&h=180&crop=1">
 
 For programming newcomers, asking the right questions is undoubtedly a difficult challenge. We have all seen posts written by people who do not know enough to elaborate on what they want beyond the basic ["What is..."](https://answers.ros.org/question/9036/what-is-a-ros-package/), or ["How do I..."](https://stackoverflow.com/questions/983354/how-do-i-make-python-to-wait-for-a-pressed-key), or ["Why does this..."](https://stackoverflow.com/questions/42355663/why-does-2-3-2-and-not-1). These kinds of questions are not dumb questions by themselves, however not showing proof of effort in the form of a body detailing prior effort to understand the problem makes it so.
 
