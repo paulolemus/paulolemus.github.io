@@ -13,7 +13,7 @@ labels:
 
 # It is time to punish man and their champion Prometheus
 
-You are the almighty Zeus! No one crosses you, especially Prometheus! He just tricked you into accepting a sacrifice of literally just bones from man as his share for all of eternity. It's about time to show both Prometheus and man who **The Man** is. It is time to make a mortal.
+You are the almighty Zeus! No one crosses you, especially Prometheus! He just tricked you into accepting a sacrifice of literally just bones from man as your share for all of eternity. It's about time to show both Prometheus and man who **The Man** is. It is time to make a mortal.
 
 This mortal shan't be made the traditional way however with the birds and the bees method. No no no, this mortal shall be hand crafted especially to play a prominent weakness of man: a weakness to stunning beauty.
 
