@@ -9,6 +9,6 @@ labels:
   - MVC
 ---
 
-<img class="ui medium image" href="https://cdn.ancienthistorylists.com/wp-content/uploads/2015/03/prometheus_greek_god.x34319.jpg"/>
+<img class="ui medium image" src="https://cdn.ancienthistorylists.com/wp-content/uploads/2015/03/prometheus_greek_god.x34319.jpg"/>
 
 testing 
