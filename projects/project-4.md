@@ -11,7 +11,7 @@ labels:
 summary: A web application built with Meteor to allow students at UH Manoa a convenient place to get connected to clubs on campus.
 ---
 
-<img class="ui medium image" src="/images/uhmspacebar.jpg">
+<img class="ui centered large image" src="/images/uhmspacebar.jpg">
 
 ## Testing 1
  This is a test
