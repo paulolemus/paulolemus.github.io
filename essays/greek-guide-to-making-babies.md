@@ -9,9 +9,10 @@ labels:
   - MVC
 ---
 
-<img class="ui medium image" src="https://cdn.ancienthistorylists.com/wp-content/uploads/2015/03/prometheus_greek_god.x34319.jpg"/>
 
 # It is time to punish man and their champion Prometheus
+
+<img class="ui medium right floated image" src="https://cdn.ancienthistorylists.com/wp-content/uploads/2015/03/prometheus_greek_god.x34319.jpg"/>
 
 You are the almighty Zeus! No one crosses you, especially Prometheus! He just tricked you into accepting a sacrifice of literally just bones from man as your share for all of eternity. It's about time to show both Prometheus and man who **The Man** is. It is time to make a mortal.
 
