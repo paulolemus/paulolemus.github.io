@@ -34,22 +34,22 @@
   },
   "interests": [
     {
-      "name": "software engineering",
+      "name": "Programming Language Theory",
       "keywords": [
       ]
     },
     {
-      "name": "android development",
+      "name": "Android Development",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Embedded Programming",
       "keywords": [
       ]
     },
     {
-      "name": "robotics",
+      "name": "Autonomous Robotics",
       "keywords": [
       ]
     }
@@ -61,22 +61,25 @@
       "keywords": [
         "C",
         "C++",
+        "Python",
         "Java",
-        "Android",
-        "Javascript",
-        "Python"
+        "JavaScript",
+        "Google Test"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "Git/GitHub",
+        "Linux (Ubuntu, Arch)",
+        "Windows 10",
+        "Git",
+        "GitHub",
+        "GNU Make",
+        "CMake",
         "Vim",
         "Android Studio",
-        "ROS",
-        "Unity3D",
-        "Linux"
+        "Robot Operating System (ROS)"
       ]
     }
   ],
@@ -89,6 +92,8 @@
       "endDate": "2018-12-18",
       "gpa": "",
       "courses": [
+        "Software Engineering",
+        "Operating Systems",
         "Computer Data Structures & Algorithms",
         "Digital Systems & Computer Design",
         "Object Oriented Programming"
@@ -102,23 +107,23 @@
       "website": "",
       "startDate": "2017-6-3",
       "endDate": "2017-8-20",
-      "summary": "Worked as software developer in team of six to develop a proof-of-concept Android app",
+      "summary": "Worked in a team of six to develop a proof-of-concept Android application for the 2017 Summer Games.",
       "highlights": [
-        "Led Android development efforts including architecture design and task delegation",
-        "Worked with technologies such as Bluetooth, BLE, NFC, RFID, HTTP, Mapbox, Estimote",
-        "Developed 10 minute pitch to showcase to and acquire funding from Booz Allen Hamilton leadership in D.C."
+        "Developed with five peers a proof-of-concept Android application that detects wireless devices for data collection, local visualization with Mapbox, and data dissemination between peers and server.",
+        "Took ownership of developing Bluetooth discovery service, HTTP POST service, NFC read/write utilities, and Mapbox primary activity.",
+        "Developed and pitched ten minute presentation to Booz Allen Hamilton principals and leadership in Washington D.C."
       ]
     },
     {
-      "company": "UH Information Technology Services",
+      "company": "UH Information Technology Services at Manoa",
       "position": "Help Desk Consultant",
       "website": "http://www.hawaii.edu/its/",
       "startDate": "2016-2-17",
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Provide system-wide technical support for all UH students, faculty, and staff.",
+        "Troubleshoot various software, hardware, and networking issues over the phone and through remote connection software."
       ]
     }
   ],
