@@ -22,12 +22,12 @@ Anyways, Micromouse gave me real and powerful motivation to learn about software
 
 A lot has changed since Micromouse. I have since changed to the Computer Engineering program. I am slowly but surely moving out of the software development "impostor syndrome" that I'm sure all of us have felt at some time. I believe that I have gotten much better at learning. I have many goals for the near future, so I suppose I'll drop them here in a list.
 
-* Learn how to use gradle from the command line
-* Finish Micromouse simulation with three pathplanning algorithm options
+* Learn how to use Gradle from the command line
+* Finish Micromouse simulation with three pathfinding algorithm options
 * Be comfortable enough with Scheme to be able to implement A\* algorithm 
 * Solve Leetcode problems previously solved with C++ or Java but instead in JavaScript, Python, and Scheme
 * Learn about Monads
 * Understand Scheme macros and how they are implemented under the hood in Chez/Racket/Guile
 * Understand what Austin mentioned about ownership in Rust - how does it check this at compile time?
-* Build personal website from scratch after or later in to ICS314
-* Place in top three mice for this semester's micromouse competition
+* Build personal website from scratch after or later in to ICS 314
+* Place in top three mice for this semester's Micromouse competition

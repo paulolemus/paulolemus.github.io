@@ -17,7 +17,7 @@ Thus far, I haven't really thought about what objectively makes a question a sma
 
 ### Looking at a smart question
 
-The question found [here](https://stackoverflow.com/questions/13102045/scanner-is-skipping-nextline-after-using-next-nextint-or-other-nextfoo) is a great example of a smart question. The title illustrates the problem immediately and you might even be able to answer the problem before looking at the details. The user isolates a small chunk of code that is relevent to the issue at hand. The user also explains his thought process process, approach, expectation, and actual result in a very compact way. This question follows most of the guidelines detailed in the *How to Ask Questions the Smart Way* document, and because of it, makes it easy for responders to respond with helpful and detailed information.
+The question found [here](https://stackoverflow.com/questions/13102045/scanner-is-skipping-nextline-after-using-next-nextint-or-other-nextfoo) is a great example of a smart question. The title illustrates the problem immediately and you might even be able to answer the problem before looking at the details. The user isolates a small chunk of code that is relevant to the issue at hand. The user also explains his thought process process, approach, expectation, and actual result in a very compact way. This question follows most of the guidelines detailed in the *How to Ask Questions the Smart Way* document, and because of it, makes it easy for responders to respond with helpful and detailed information.
 
 ### Looking at a not-smart question
 
